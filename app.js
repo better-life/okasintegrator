@@ -1,6 +1,7 @@
 var Integrator = require('./lib/index');
 var integrator = new Integrator({
-	connectionString:""
+	connectionString:"",
+	parserPath:__dirname+"/parser/"
 });
 
 var provider_id = "1", entity="CENTERS";
