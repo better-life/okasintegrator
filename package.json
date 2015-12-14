@@ -13,6 +13,7 @@
     "cron": "^1.1.0",
     "lodash": "^3.10.1",
     "moment-timezone": "^0.4.1",
-    "mongodb": "^2.1.0"
+    "mongodb": "^2.1.0",
+    "mongoose": "4.0.3"
   }
 }
